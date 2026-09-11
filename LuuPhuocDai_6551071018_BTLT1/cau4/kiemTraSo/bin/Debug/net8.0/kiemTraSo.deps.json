@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kiemTraSo/1.0.0": {
+        "runtime": {
+          "kiemTraSo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kiemTraSo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

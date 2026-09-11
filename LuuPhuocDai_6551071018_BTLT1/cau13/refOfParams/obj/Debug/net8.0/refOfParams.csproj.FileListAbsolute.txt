@@ -1,0 +1,14 @@
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\bin\Debug\net8.0\refOfParams.exe
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\bin\Debug\net8.0\refOfParams.deps.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\bin\Debug\net8.0\refOfParams.runtimeconfig.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\bin\Debug\net8.0\refOfParams.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\bin\Debug\net8.0\refOfParams.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\obj\Debug\net8.0\refOfParams.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\obj\Debug\net8.0\refOfParams.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\obj\Debug\net8.0\refOfParams.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\obj\Debug\net8.0\refOfParams.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\obj\Debug\net8.0\refOfParams.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\obj\Debug\net8.0\refint\refOfParams.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\obj\Debug\net8.0\refOfParams.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\obj\Debug\net8.0\refOfParams.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau13\refOfParams\obj\Debug\net8.0\ref\refOfParams.dll

@@ -1,0 +1,14 @@
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\bin\Debug\net8.0\MayTinhDonGia.exe
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\bin\Debug\net8.0\MayTinhDonGia.deps.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\bin\Debug\net8.0\MayTinhDonGia.runtimeconfig.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\bin\Debug\net8.0\MayTinhDonGia.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\bin\Debug\net8.0\MayTinhDonGia.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\obj\Debug\net8.0\MayTinhDonGia.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\obj\Debug\net8.0\MayTinhDonGia.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\obj\Debug\net8.0\MayTinhDonGia.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\obj\Debug\net8.0\MayTinhDonGia.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\obj\Debug\net8.0\MayTinhDonGia.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\obj\Debug\net8.0\refint\MayTinhDonGia.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\obj\Debug\net8.0\MayTinhDonGia.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\obj\Debug\net8.0\MayTinhDonGia.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau2\MayTinhDonGia\obj\Debug\net8.0\ref\MayTinhDonGia.dll

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\lapTrinhTrucQuan\\bai1\\",
+  "WorkspaceRootPath": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT1\\bai1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4C3BE4E-E69F-485C-BE84-6FEB0227FA85}|bai1\\bai1.csproj|e:\\laptrinhtrucquan\\bai1\\bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B4C3BE4E-E69F-485C-BE84-6FEB0227FA85}|bai1\\bai1.csproj|solutionrelative:bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B4C3BE4E-E69F-485C-BE84-6FEB0227FA85}|bai1\\bai1.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt1\\bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C3BE4E-E69F-485C-BE84-6FEB0227FA85}|bai1\\bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\bai1\\bai1\\Form1.cs",
-              "RelativeDocumentMoniker": "bai1\\Form1.cs",
-              "ToolTip": "E:\\lapTrinhTrucQuan\\bai1\\bai1\\Form1.cs [Design]",
-              "RelativeToolTip": "bai1\\Form1.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT1\\bai1\\bai1\\Program.cs",
+              "RelativeDocumentMoniker": "bai1\\Program.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT1\\bai1\\bai1\\Program.cs",
+              "RelativeToolTip": "bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T11:28:35.775Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-10T23:14:57.769Z",
+              "EditorCaption": ""
             }
           ]
         }

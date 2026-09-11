@@ -1,0 +1,14 @@
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\bin\Debug\net8.0\xuLyNgoaiLe.exe
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\bin\Debug\net8.0\xuLyNgoaiLe.deps.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\bin\Debug\net8.0\xuLyNgoaiLe.runtimeconfig.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\bin\Debug\net8.0\xuLyNgoaiLe.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\bin\Debug\net8.0\xuLyNgoaiLe.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\obj\Debug\net8.0\xuLyNgoaiLe.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\obj\Debug\net8.0\xuLyNgoaiLe.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\obj\Debug\net8.0\xuLyNgoaiLe.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\obj\Debug\net8.0\xuLyNgoaiLe.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\obj\Debug\net8.0\xuLyNgoaiLe.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\obj\Debug\net8.0\refint\xuLyNgoaiLe.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\obj\Debug\net8.0\xuLyNgoaiLe.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\obj\Debug\net8.0\xuLyNgoaiLe.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau14\xuLyNgoaiLe\obj\Debug\net8.0\ref\xuLyNgoaiLe.dll

@@ -1,0 +1,14 @@
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\bin\Debug\net8.0\enumTrangThai.exe
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\bin\Debug\net8.0\enumTrangThai.deps.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\bin\Debug\net8.0\enumTrangThai.runtimeconfig.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\bin\Debug\net8.0\enumTrangThai.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\bin\Debug\net8.0\enumTrangThai.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\obj\Debug\net8.0\enumTrangThai.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\obj\Debug\net8.0\enumTrangThai.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\obj\Debug\net8.0\enumTrangThai.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\obj\Debug\net8.0\enumTrangThai.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\obj\Debug\net8.0\enumTrangThai.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\obj\Debug\net8.0\refint\enumTrangThai.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\obj\Debug\net8.0\enumTrangThai.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\obj\Debug\net8.0\enumTrangThai.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau11\enumTrangThai\obj\Debug\net8.0\ref\enumTrangThai.dll

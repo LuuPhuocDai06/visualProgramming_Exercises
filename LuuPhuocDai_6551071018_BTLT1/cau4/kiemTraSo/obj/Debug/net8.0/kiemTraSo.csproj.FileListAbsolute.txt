@@ -1,0 +1,14 @@
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\obj\Debug\net8.0\kiemTraSo.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\obj\Debug\net8.0\kiemTraSo.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\obj\Debug\net8.0\kiemTraSo.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\obj\Debug\net8.0\kiemTraSo.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\bin\Debug\net8.0\kiemTraSo.exe
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\bin\Debug\net8.0\kiemTraSo.deps.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\bin\Debug\net8.0\kiemTraSo.runtimeconfig.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\bin\Debug\net8.0\kiemTraSo.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\bin\Debug\net8.0\kiemTraSo.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\obj\Debug\net8.0\kiemTraSo.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\obj\Debug\net8.0\refint\kiemTraSo.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\obj\Debug\net8.0\kiemTraSo.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\obj\Debug\net8.0\kiemTraSo.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau4\kiemTraSo\obj\Debug\net8.0\ref\kiemTraSo.dll

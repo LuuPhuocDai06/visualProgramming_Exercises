@@ -1,0 +1,14 @@
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\bin\Debug\net8.0\structDiemSo.exe
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\bin\Debug\net8.0\structDiemSo.deps.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\bin\Debug\net8.0\structDiemSo.runtimeconfig.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\bin\Debug\net8.0\structDiemSo.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\bin\Debug\net8.0\structDiemSo.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\obj\Debug\net8.0\structDiemSo.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\obj\Debug\net8.0\structDiemSo.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\obj\Debug\net8.0\structDiemSo.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\obj\Debug\net8.0\structDiemSo.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\obj\Debug\net8.0\structDiemSo.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\obj\Debug\net8.0\refint\structDiemSo.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\obj\Debug\net8.0\structDiemSo.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\obj\Debug\net8.0\structDiemSo.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau12\structDiemSo\obj\Debug\net8.0\ref\structDiemSo.dll

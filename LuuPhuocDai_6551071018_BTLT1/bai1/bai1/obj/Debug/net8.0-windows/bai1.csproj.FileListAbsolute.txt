@@ -1,0 +1,17 @@
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\bin\Debug\net8.0-windows\bai1.exe
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\bin\Debug\net8.0-windows\bai1.deps.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\bin\Debug\net8.0-windows\bai1.runtimeconfig.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\bin\Debug\net8.0-windows\bai1.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\bin\Debug\net8.0-windows\bai1.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\bai1.Form1.resources
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\bai1.csproj.GenerateResource.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\bai1.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\bai1.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\bai1.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\bai1.sourcelink.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\bai1.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\refint\bai1.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\bai1.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\bai1.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT1\bai1\bai1\obj\Debug\net8.0-windows\ref\bai1.dll

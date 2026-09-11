@@ -1,0 +1,14 @@
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\bin\Debug\net8.0\quanLySinhVien.exe
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\bin\Debug\net8.0\quanLySinhVien.deps.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\bin\Debug\net8.0\quanLySinhVien.runtimeconfig.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\bin\Debug\net8.0\quanLySinhVien.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\bin\Debug\net8.0\quanLySinhVien.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\obj\Debug\net8.0\quanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\obj\Debug\net8.0\quanLySinhVien.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\obj\Debug\net8.0\quanLySinhVien.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\obj\Debug\net8.0\quanLySinhVien.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\obj\Debug\net8.0\quanLySinhVien.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\obj\Debug\net8.0\refint\quanLySinhVien.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\obj\Debug\net8.0\quanLySinhVien.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\obj\Debug\net8.0\quanLySinhVien.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau16\quanLySinhVien\obj\Debug\net8.0\ref\quanLySinhVien.dll
