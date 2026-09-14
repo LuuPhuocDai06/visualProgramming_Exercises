@@ -1,0 +1,16 @@
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\bai16.Form1.resources
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\bai16.csproj.GenerateResource.cache
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\bai16.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\bai16.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\bai16.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\bai16.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\bin\Debug\net8.0-windows\bai16.exe
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\bin\Debug\net8.0-windows\bai16.deps.json
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\bin\Debug\net8.0-windows\bai16.runtimeconfig.json
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\bin\Debug\net8.0-windows\bai16.dll
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\bin\Debug\net8.0-windows\bai16.pdb
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\bai16.dll
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\refint\bai16.dll
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\bai16.pdb
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\bai16.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai16\bai16\obj\Debug\net8.0-windows\ref\bai16.dll

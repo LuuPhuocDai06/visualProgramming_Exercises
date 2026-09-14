@@ -1,0 +1,6 @@
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai15\bai15\obj\Debug\net8.0-windows\bai15.Form1.resources
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai15\bai15\obj\Debug\net8.0-windows\bai15.csproj.GenerateResource.cache
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai15\bai15\obj\Debug\net8.0-windows\bai15.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai15\bai15\obj\Debug\net8.0-windows\bai15.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai15\bai15\obj\Debug\net8.0-windows\bai15.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\c#\practice\winForm\bai15\bai15\obj\Debug\net8.0-windows\bai15.csproj.CoreCompileInputs.cache
