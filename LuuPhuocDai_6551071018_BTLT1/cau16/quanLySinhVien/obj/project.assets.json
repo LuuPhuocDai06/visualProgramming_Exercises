@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\lapTrinhTrucQuan\\c#\\exercise\\c#_Basic\\cau16\\quanLySinhVien\\quanLySinhVien.csproj",
+      "projectUniqueName": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT1\\cau16\\quanLySinhVien\\quanLySinhVien.csproj",
       "projectName": "quanLySinhVien",
-      "projectPath": "E:\\lapTrinhTrucQuan\\c#\\exercise\\c#_Basic\\cau16\\quanLySinhVien\\quanLySinhVien.csproj",
+      "projectPath": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT1\\cau16\\quanLySinhVien\\quanLySinhVien.csproj",
       "packagesPath": "C:\\Users\\Dailuuphuoc\\.nuget\\packages\\",
-      "outputPath": "E:\\lapTrinhTrucQuan\\c#\\exercise\\c#_Basic\\cau16\\quanLySinhVien\\obj\\",
+      "outputPath": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT1\\cau16\\quanLySinhVien\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

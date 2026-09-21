@@ -1,0 +1,17 @@
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\bin\Debug\net8.0-windows\FormBanHangDemo.exe
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\bin\Debug\net8.0-windows\FormBanHangDemo.deps.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\bin\Debug\net8.0-windows\FormBanHangDemo.runtimeconfig.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\bin\Debug\net8.0-windows\FormBanHangDemo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\bin\Debug\net8.0-windows\FormBanHangDemo.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\FormBanHangDemo.Form1.resources
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\FormBanHangDemo.csproj.GenerateResource.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\FormBanHangDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\FormBanHangDemo.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\FormBanHangDemo.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\FormBanHangDemo.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\FormBanHangDemo.sourcelink.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\FormBanHangDemo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\refint\FormBanHangDemo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\FormBanHangDemo.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\FormBanHangDemo.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau1\FormBanHangDemo\obj\Debug\net8.0-windows\ref\FormBanHangDemo.dll

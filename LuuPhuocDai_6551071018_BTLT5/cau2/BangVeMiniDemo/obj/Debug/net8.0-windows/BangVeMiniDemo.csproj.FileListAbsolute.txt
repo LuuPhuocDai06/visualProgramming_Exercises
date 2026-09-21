@@ -1,0 +1,17 @@
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\bin\Debug\net8.0-windows\BangVeMiniDemo.exe
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\bin\Debug\net8.0-windows\BangVeMiniDemo.deps.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\bin\Debug\net8.0-windows\BangVeMiniDemo.runtimeconfig.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\bin\Debug\net8.0-windows\BangVeMiniDemo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\bin\Debug\net8.0-windows\BangVeMiniDemo.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\BangVeMiniDemo.Form1.resources
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\BangVeMiniDemo.csproj.GenerateResource.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\BangVeMiniDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\BangVeMiniDemo.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\BangVeMiniDemo.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\BangVeMiniDemo.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\BangVeMiniDemo.sourcelink.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\BangVeMiniDemo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\refint\BangVeMiniDemo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\BangVeMiniDemo.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\BangVeMiniDemo.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau2\BangVeMiniDemo\obj\Debug\net8.0-windows\ref\BangVeMiniDemo.dll

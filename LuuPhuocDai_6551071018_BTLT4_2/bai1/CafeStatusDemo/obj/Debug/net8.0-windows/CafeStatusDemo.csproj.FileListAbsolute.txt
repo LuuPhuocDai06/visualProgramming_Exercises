@@ -1,0 +1,17 @@
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\bin\Debug\net8.0-windows\CafeStatusDemo.exe
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\bin\Debug\net8.0-windows\CafeStatusDemo.deps.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\bin\Debug\net8.0-windows\CafeStatusDemo.runtimeconfig.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\bin\Debug\net8.0-windows\CafeStatusDemo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\bin\Debug\net8.0-windows\CafeStatusDemo.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\CafeStatusDemo.Form1.resources
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\CafeStatusDemo.csproj.GenerateResource.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\CafeStatusDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\CafeStatusDemo.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\CafeStatusDemo.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\CafeStatusDemo.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\CafeStatusDemo.sourcelink.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\CafeStatusDemo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\refint\CafeStatusDemo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\CafeStatusDemo.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\CafeStatusDemo.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT4_2\bai1\CafeStatusDemo\obj\Debug\net8.0-windows\ref\CafeStatusDemo.dll

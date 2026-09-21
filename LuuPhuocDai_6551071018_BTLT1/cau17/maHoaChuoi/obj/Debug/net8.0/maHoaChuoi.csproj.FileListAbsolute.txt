@@ -1,0 +1,14 @@
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\bin\Debug\net8.0\maHoaChuoi.exe
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\bin\Debug\net8.0\maHoaChuoi.deps.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\bin\Debug\net8.0\maHoaChuoi.runtimeconfig.json
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\bin\Debug\net8.0\maHoaChuoi.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\bin\Debug\net8.0\maHoaChuoi.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\obj\Debug\net8.0\maHoaChuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\obj\Debug\net8.0\maHoaChuoi.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\obj\Debug\net8.0\maHoaChuoi.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\obj\Debug\net8.0\maHoaChuoi.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\obj\Debug\net8.0\maHoaChuoi.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\obj\Debug\net8.0\refint\maHoaChuoi.dll
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\obj\Debug\net8.0\maHoaChuoi.pdb
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\obj\Debug\net8.0\maHoaChuoi.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\c#\exercise\c#_Basic\cau17\maHoaChuoi\obj\Debug\net8.0\ref\maHoaChuoi.dll

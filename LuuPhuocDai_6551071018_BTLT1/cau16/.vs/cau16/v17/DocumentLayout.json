@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\lapTrinhTrucQuan\\c#\\exercise\\c#_Basic\\cau16\\",
+  "WorkspaceRootPath": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT1\\cau16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47FE78E9-7FC9-49CF-91DB-955FE4A735EC}|quanLySinhVien\\quanLySinhVien.csproj|e:\\laptrinhtrucquan\\c#\\exercise\\c#_basic\\cau16\\quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47FE78E9-7FC9-49CF-91DB-955FE4A735EC}|quanLySinhVien\\quanLySinhVien.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt1\\cau16\\quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47FE78E9-7FC9-49CF-91DB-955FE4A735EC}|quanLySinhVien\\quanLySinhVien.csproj|solutionrelative:quanlysinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\c#\\exercise\\c#_Basic\\cau16\\quanLySinhVien\\Program.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT1\\cau16\\quanLySinhVien\\Program.cs",
               "RelativeDocumentMoniker": "quanLySinhVien\\Program.cs",
-              "ToolTip": "E:\\lapTrinhTrucQuan\\c#\\exercise\\c#_Basic\\cau16\\quanLySinhVien\\Program.cs*",
-              "RelativeToolTip": "quanLySinhVien\\Program.cs*",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAowIMAAAAoAAAAAAAAAA==",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT1\\cau16\\quanLySinhVien\\Program.cs",
+              "RelativeToolTip": "quanLySinhVien\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAowIMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-11T07:03:25.596Z",
               "EditorCaption": ""
