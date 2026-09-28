@@ -12,3 +12,18 @@ E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\refint\BaiTapChuong5.
 E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.pdb
 E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.genruntimeconfig.cache
 E:\lapTrinhTrucQuan\BaiTapChuong5\obj\Debug\net8.0-windows\ref\BaiTapChuong5.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.exe
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.deps.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.runtimeconfig.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.sourcelink.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\obj\Debug\net8.0-windows\refint\BaiTapChuong5.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT6\BaiTapChuong5\obj\Debug\net8.0-windows\ref\BaiTapChuong5.dll

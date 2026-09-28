@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\lapTrinhTrucQuan\\BaiTapChuong5\\BaiTapChuong5.csproj": {}
+    "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT6\\BaiTapChuong5\\BaiTapChuong5.csproj": {}
   },
   "projects": {
-    "E:\\lapTrinhTrucQuan\\BaiTapChuong5\\BaiTapChuong5.csproj": {
+    "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT6\\BaiTapChuong5\\BaiTapChuong5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\lapTrinhTrucQuan\\BaiTapChuong5\\BaiTapChuong5.csproj",
+        "projectUniqueName": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT6\\BaiTapChuong5\\BaiTapChuong5.csproj",
         "projectName": "BaiTapChuong5",
-        "projectPath": "E:\\lapTrinhTrucQuan\\BaiTapChuong5\\BaiTapChuong5.csproj",
+        "projectPath": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT6\\BaiTapChuong5\\BaiTapChuong5.csproj",
         "packagesPath": "C:\\Users\\Dailuuphuoc\\.nuget\\packages\\",
-        "outputPath": "E:\\lapTrinhTrucQuan\\BaiTapChuong5\\obj\\",
+        "outputPath": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT6\\BaiTapChuong5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
