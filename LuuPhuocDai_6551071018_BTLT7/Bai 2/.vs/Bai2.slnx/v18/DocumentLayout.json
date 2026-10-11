@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB086336-2E24-E911-B536-BAE7F7502C6C}|Bai 2\\Bai2.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt7\\bai 2\\bai 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB086336-2E24-E911-B536-BAE7F7502C6C}|Bai 2\\Bai2.csproj|solutionrelative:bai 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB086336-2E24-E911-B536-BAE7F7502C6C}|Bai 2\\Bai2.csproj|E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai 2\\bai 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB086336-2E24-E911-B536-BAE7F7502C6C}|Bai 2\\Bai2.csproj|solutionrelative:bai 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB086336-2E24-E911-B536-BAE7F7502C6C}|Bai 2\\Bai2.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt7\\bai 2\\bai 2\\models\\fitzonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB086336-2E24-E911-B536-BAE7F7502C6C}|Bai 2\\Bai2.csproj|solutionrelative:bai 2\\models\\fitzonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FitZoneDBContext.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai 2\\Bai 2\\Models\\FitZoneDBContext.cs",
+              "RelativeDocumentMoniker": "Bai 2\\Models\\FitZoneDBContext.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai 2\\Bai 2\\Models\\FitZoneDBContext.cs",
+              "RelativeToolTip": "Bai 2\\Models\\FitZoneDBContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:43:40.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai 2\\Bai 2\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai 2\\Form1.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai 2\\Bai 2\\Form1.cs",
+              "RelativeToolTip": "Bai 2\\Form1.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAgwOsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:35:58.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai 2\\Bai 2\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai 2\\Form1.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTLT bu\u1ED5i 8\\Bai 2\\Bai 2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:33:57.868Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

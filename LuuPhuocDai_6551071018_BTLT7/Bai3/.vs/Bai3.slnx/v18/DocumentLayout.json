@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18F86698-0B65-86A7-FA02-48D734ADA16A}|Bai3\\Bai3.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt7\\bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F86698-0B65-86A7-FA02-48D734ADA16A}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F86698-0B65-86A7-FA02-48D734ADA16A}|Bai3\\Bai3.csproj|E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18F86698-0B65-86A7-FA02-48D734ADA16A}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949DA55A-3709-4D46-90A4-3DBF34483C73}|Bai3\\Bai3.csproj|E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949DA55A-3709-4D46-90A4-3DBF34483C73}|Bai3\\Bai3.csproj|solutionrelative:bai3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F86698-0B65-86A7-FA02-48D734ADA16A}|Bai3\\Bai3.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt7\\bai3\\bai3\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F86698-0B65-86A7-FA02-48D734ADA16A}|Bai3\\Bai3.csproj|solutionrelative:bai3\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F86698-0B65-86A7-FA02-48D734ADA16A}|Bai3\\Bai3.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt7\\bai3\\bai3\\models\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F86698-0B65-86A7-FA02-48D734ADA16A}|Bai3\\Bai3.csproj|solutionrelative:bai3\\models\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18F86698-0B65-86A7-FA02-48D734ADA16A}|Bai3\\Bai3.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt7\\bai3\\bai3\\models\\sunrisehomestaydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18F86698-0B65-86A7-FA02-48D734ADA16A}|Bai3\\Bai3.csproj|solutionrelative:bai3\\models\\sunrisehomestaydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3\\Form1.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:29:00.757Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoaiPhong.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Models\\LoaiPhong.cs",
+              "RelativeDocumentMoniker": "Bai3\\Models\\LoaiPhong.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Models\\LoaiPhong.cs",
+              "RelativeToolTip": "Bai3\\Models\\LoaiPhong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:08:07.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Models\\Phong.cs",
+              "RelativeDocumentMoniker": "Bai3\\Models\\Phong.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Models\\Phong.cs",
+              "RelativeToolTip": "Bai3\\Models\\Phong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T03:08:04.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SunriseHomestayDBContext.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Models\\SunriseHomestayDBContext.cs",
+              "RelativeDocumentMoniker": "Bai3\\Models\\SunriseHomestayDBContext.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Models\\SunriseHomestayDBContext.cs",
+              "RelativeToolTip": "Bai3\\Models\\SunriseHomestayDBContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T02:44:10.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3\\Form1.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Form1.cs",
+              "RelativeToolTip": "Bai3\\Form1.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAswAQBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T02:49:38.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai3\\Bai3\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3\\Form1.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTLT bu\u1ED5i 8\\Bai3\\Bai3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T02:31:17.447Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

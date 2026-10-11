@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt7\\bai1\\bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|solutionrelative:bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt7\\bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt7\\bai1\\bai1\\models\\trithucbooksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|solutionrelative:bai1\\models\\trithucbooksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|e:\\laptrinhtrucquan\\visual programming exercise\\luuphuocdai_6551071018_btlt7\\bai1\\bai1\\models\\theloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|solutionrelative:bai1\\models\\theloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87048F30-B7E3-A585-41AE-7320806D3928}|Bai1\\Bai1.csproj|solutionrelative:bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:27:45.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheLoaiSach.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\Bai1\\Models\\TheLoaiSach.cs",
+              "RelativeDocumentMoniker": "Bai1\\Models\\TheLoaiSach.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\Bai1\\Models\\TheLoaiSach.cs",
+              "RelativeToolTip": "Bai1\\Models\\TheLoaiSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:19:12.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriThucBooksDBContext.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\Bai1\\Models\\TriThucBooksDBContext.cs",
+              "RelativeDocumentMoniker": "Bai1\\Models\\TriThucBooksDBContext.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\Bai1\\Models\\TriThucBooksDBContext.cs",
+              "RelativeToolTip": "Bai1\\Models\\TriThucBooksDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:16:19.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Form1.cs",
+              "ToolTip": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\Bai1\\Form1.cs",
+              "RelativeToolTip": "Bai1\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA0wIwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:53:36.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\lapTrinhTrucQuan\\visual programming exercise\\LuuPhuocDai_6551071018_BTLT7\\Bai1\\Bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1\\Form1.cs",
+              "ToolTip": "D:\\Download\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\BTLT bu\u1ED5i 8\\Bai1\\Bai1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T06:02:33.507Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
