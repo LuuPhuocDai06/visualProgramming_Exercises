@@ -1,0 +1,15 @@
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\obj\Debug\net8.0\gameDoanSo.GeneratedMSBuildEditorConfig.editorconfig
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\obj\Debug\net8.0\gameDoanSo.AssemblyInfoInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\obj\Debug\net8.0\gameDoanSo.AssemblyInfo.cs
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\obj\Debug\net8.0\gameDoanSo.csproj.CoreCompileInputs.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\obj\Debug\net8.0\gameDoanSo.sourcelink.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\bin\Debug\net8.0\gameDoanSo.exe
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\bin\Debug\net8.0\gameDoanSo.deps.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\bin\Debug\net8.0\gameDoanSo.runtimeconfig.json
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\bin\Debug\net8.0\gameDoanSo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\bin\Debug\net8.0\gameDoanSo.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\obj\Debug\net8.0\gameDoanSo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\obj\Debug\net8.0\refint\gameDoanSo.dll
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\obj\Debug\net8.0\gameDoanSo.pdb
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\obj\Debug\net8.0\gameDoanSo.genruntimeconfig.cache
+E:\lapTrinhTrucQuan\visual programming exercise\LuuPhuocDai_6551071018_BTLT5\cau19\gameDoanSo\obj\Debug\net8.0\ref\gameDoanSo.dll
