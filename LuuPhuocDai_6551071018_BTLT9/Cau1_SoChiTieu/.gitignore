@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+publish/
+Logs/
+# File cấu hình có thể chứa mật khẩu -> không đưa lên Git (đã có appsettings.example.json làm mẫu)
+appsettings.json
+appsettings.Development.json

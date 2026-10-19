@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+publish/
+Logs/
+# Chứa số tài khoản ngân hàng thật -> không đưa lên GitHub (dùng appsettings.example.json làm mẫu)
+appsettings.json
