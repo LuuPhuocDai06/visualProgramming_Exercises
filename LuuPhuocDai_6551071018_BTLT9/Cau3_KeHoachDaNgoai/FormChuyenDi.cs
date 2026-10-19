@@ -6,8 +6,15 @@ using System.Text.Json;
 
 namespace DaNgoai;
 
+
+public class NudEx : NumericUpDown
+{
+    public void RefreshText() => UpdateEditText();
+}
+
 public class FormChuyenDi : Form
 {
+
     // Giá trị lưu trong CSDL luôn là tiếng Việt; chỉ phần hiển thị được dịch
     static readonly string[] PtKeys = { "Xe máy", "Ô tô", "Xe khách", "Tàu hỏa" };
     sealed record PtItem(string Key) { public override string ToString() => PtText(Key); }
@@ -20,8 +27,9 @@ public class FormChuyenDi : Form
     readonly GroupBox gbInfo = new(), gbWeather = new();
     readonly TextBox txtTen = new() { MaxLength = 100 }, txtDiaDiem = new() { MaxLength = 100 };
     readonly DateTimePicker dtpNgay = new();
-    readonly NumericUpDown nudNguoi = new() { Minimum = 1, Maximum = 1000, Value = 1 };
-    readonly NumericUpDown nudNganSach = new() { Minimum = 0, Maximum = 10_000_000_000, Increment = 100_000, ThousandsSeparator = true };
+    readonly NudEx nudNguoi = new() { Minimum = 1, Maximum = 1000, Value = 1 };
+    readonly NudEx nudNganSach = new() { Minimum = 0, Maximum = 10_000_000_000, Increment = 100_000, ThousandsSeparator = true };
+
     readonly ComboBox cboPt = new() { DropDownStyle = ComboBoxStyle.DropDownList };
     readonly CheckBox chkXong = new() { AutoSize = true };
     // thời tiết
@@ -132,7 +140,7 @@ public class FormChuyenDi : Form
 
         foreach (var d in new[] { dtpNgay, dtpTu, dtpDen })      // định dạng ngày theo CultureInfo
         { d.Format = DateTimePickerFormat.Custom; d.CustomFormat = ci.DateTimeFormat.ShortDatePattern; }
-        nudNganSach.UpdateEditText(); nudNguoi.UpdateEditText();
+        nudNganSach.RefreshText(); nudNguoi.RefreshText();
 
         int sel = Math.Max(0, cboPt.SelectedIndex);               // dịch lại danh sách phương tiện
         cboPt.Items.Clear(); cboPt.Items.AddRange(PtKeys.Select(k => (object)new PtItem(k)).ToArray());
